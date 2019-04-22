@@ -1,6 +1,8 @@
-# review_ms
+# Snowden-Webpack-Simple
 
-> A Vue.js project
+## vue多页面项目模板，用于支持snowden-cli
+
+### 已载入vue, stylus
 
 ## Build Setup
 
